@@ -9,7 +9,6 @@
 ######################################################################
 ### Auther: Asiri Amal K                                          ####
 ### Date  : 14/12/2019                                            ####
-### Supervisor : abhiphull15                                      ####
 ### Description: Training Model using Pre-trained BERT model      ####
 ######################################################################
 ```
